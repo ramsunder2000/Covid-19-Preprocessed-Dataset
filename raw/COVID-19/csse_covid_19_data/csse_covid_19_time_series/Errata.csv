@@ -216,9 +216,15 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 6/10/2020,time_series_covid19_deaths_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated for Michigan 
 6/10/2020,time_series_covid19_deaths_global.csv,Peru,6/9/2020,203736,5738,Correction for deaths in Peru
 6/10/2020,time_series_covid19_deaths_US.csv,Michigan,6/9/2020,111694,111989,Fixed MI
+<<<<<<< HEAD
 6/10/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/7/2020,,103671,Added data for date
 6/10/2020,time_series_covid19_deaths_global.csv,Pakistan,6/7/2020,,2067,Added data for date
 6/10/2020,time_series_covid19_recovered_global.csv,Pakistan,6/7/2020,,34355,Added data for date
+=======
+6/10/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/7/2020,N/A,103671,Added data for date
+6/10/2020,time_series_covid19_deaths_global.csv,Pakistan,6/7/2020,N/A,2067,Added data for date
+6/10/2020,time_series_covid19_recovered_global.csv,Pakistan,6/7/2020,N/A,34355,Added data for date
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 6/11/2020,time_series_covid19_confirmed_global.csv,US,6/9/2020,1973230,1979489,Resolved discrepancy 
 6/11/2020,time_series_covid19_deaths_global.csv,US,6/9/2020,111989,111994,Resolved discrepancy
 6/12/2020,time_series_covid19_confirmed_global.csv,India,6/10/2020,276583,286605,Replace with the data at the end of the day
@@ -646,6 +652,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/30/2020,time_series_covid19_confirmed_global.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
 12/30/2020,time_series_covid19_confirmed_US.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
 12/30/2020,time_series_covid19_deaths_global.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
+<<<<<<< HEAD
 12/30/2020,time_series_covid19_deaths_US.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
 12/31/2020,time_series_covid19_confirmed_US.csv,"North Dakota, US",12/30/2020,,,Correct based on ND Dashboard
 12/31/2020,time_series_covid19_deaths_US.csv,"North Dakota, US",12/30/2020,,,Correct based on ND Dashboard
@@ -980,3 +987,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/05/2021,8985,8727,Correct stale data
 01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/06/2021,8985,8727,Correct stale data
 01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/07/2021,9262,8727,Correct stale data
+=======
+12/30/2020,time_series_covid19_deaths_US.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561

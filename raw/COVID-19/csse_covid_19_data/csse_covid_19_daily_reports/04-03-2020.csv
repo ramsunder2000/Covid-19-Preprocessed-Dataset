@@ -1964,7 +1964,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,2020-04-03 22:46:37,30.40942847,-89.95642711,435,10,0,0,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,2020-04-03 22:46:37,38.03100851,-98.71762001,1,0,0,0,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,2020-04-03 22:46:37,38.41758738,-77.45917053,29,0,0,0,"Stafford, Virginia, US"
+<<<<<<< HEAD
 6099,Stanislaus,California,US,2020-04-03 22:46:37,37.55862499,-120.9970722,58,0,0,0,"Stanislaus, California, US"
+=======
+6099,Stanislaus,California,US,2020-04-03 22:46:37,37.55862499,-120.9970722,51,0,0,0,"Stanislaus, California, US"
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 37167,Stanly,North Carolina,US,2020-04-03 22:46:37,35.31647813,-80.25093221,7,0,0,0,"Stanly, North Carolina, US"
 38089,Stark,North Dakota,US,2020-04-03 22:46:37,46.80851182,-102.65763259999999,19,0,0,0,"Stark, North Dakota, US"
 39151,Stark,Ohio,US,2020-04-03 22:46:37,40.81482476,-81.36437305,72,4,0,0,"Stark, Ohio, US"
@@ -2025,7 +2029,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29213,Taney,Missouri,US,2020-04-03 22:46:37,36.65465345,-93.04075153,2,0,0,0,"Taney, Missouri, US"
 22105,Tangipahoa,Louisiana,US,2020-04-03 22:46:37,30.62888673,-90.40664996,55,1,0,0,"Tangipahoa, Louisiana, US"
 35055,Taos,New Mexico,US,2020-04-03 22:46:37,36.58006022,-105.63101979999999,13,0,0,0,"Taos, New Mexico, US"
+<<<<<<< HEAD
 48439,Tarrant,Texas,US,2020-04-03 22:46:37,32.77143818,-97.29101614,404,13,0,0,"Tarrant, Texas, US"
+=======
+48439,Tarrant,Texas,US,2020-04-03 22:46:37,32.77143818,-97.29101614,383,7,0,0,"Tarrant, Texas, US"
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 28137,Tate,Mississippi,US,2020-04-03 22:46:37,34.65133709,-89.94485778,13,0,0,0,"Tate, Mississippi, US"
 13267,Tattnall,Georgia,US,2020-04-03 22:46:37,32.04785085,-82.05539188,3,0,0,0,"Tattnall, Georgia, US"
 13269,Taylor,Georgia,US,2020-04-03 22:46:37,32.55792548,-84.25077141,2,0,0,0,"Taylor, Georgia, US"
@@ -2516,7 +2524,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-04-03 22:46:20,9.9456,-9.6966,73,0,2,71,Guinea
 ,,,Guinea-Bissau,2020-04-03 22:46:20,11.8037,-15.1804,15,0,0,15,Guinea-Bissau
 ,,,Guyana,2020-04-03 22:46:20,4.860416000000002,-58.93018000000001,23,4,0,19,Guyana
+<<<<<<< HEAD
 ,,,Haiti,2020-04-03 22:46:20,18.9712,-72.2852,16,0,1,17,Haiti
+=======
+,,,Haiti,2020-04-03 22:46:20,18.9712,-72.2852,18,0,1,17,Haiti
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 ,,,Holy See,2020-04-03 22:46:20,41.9029,12.4534,7,0,0,7,Holy See
 ,,,Honduras,2020-04-03 22:46:20,15.2,-86.2419,222,15,3,204,Honduras
 ,,,Hungary,2020-04-03 22:46:20,47.1625,19.5033,623,26,43,554,Hungary
@@ -2607,7 +2619,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Syria,2020-04-03 22:46:20,34.802075,38.99681500000001,16,2,0,14,Syria
 ,,,Taiwan*,2020-04-03 08:10:40,23.7,121.0,348,5,50,293,Taiwan*
 ,,,Tanzania,2020-04-03 22:46:20,-6.369028,34.888822,20,1,3,16,Tanzania
+<<<<<<< HEAD
 ,,,Thailand,2020-04-03 22:46:20,15.870032,100.992541,1978,19,581,1347,Thailand
+=======
+,,,Thailand,2020-04-03 22:46:20,15.870032,100.992541,1978,19,612,1347,Thailand
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 ,,,Timor-Leste,2020-04-03 22:46:20,-8.874217,125.727539,1,0,0,1,Timor-Leste
 ,,,Togo,2020-04-03 22:46:20,8.6195,0.8248,40,3,17,20,Togo
 ,,,Trinidad and Tobago,2020-04-03 22:46:20,10.6918,-61.2225,98,6,1,91,Trinidad and Tobago

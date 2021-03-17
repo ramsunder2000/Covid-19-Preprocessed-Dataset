@@ -2305,7 +2305,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,2020-04-15 22:56:51,30.40942847,-89.95642711,924,60,0,864,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,2020-04-15 22:56:51,38.03100851,-98.71762001,1,0,0,1,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,2020-04-15 22:56:51,38.41758738,-77.45917053,108,0,0,108,"Stafford, Virginia, US"
+<<<<<<< HEAD
 6099,Stanislaus,California,US,2020-04-15 22:56:51,37.55862499,-120.9970722,176,4,0,159,"Stanislaus, California, US"
+=======
+6099,Stanislaus,California,US,2020-04-15 22:56:51,37.55862499,-120.9970722,163,4,0,159,"Stanislaus, California, US"
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 37167,Stanly,North Carolina,US,2020-04-15 22:56:51,35.31647813,-80.25093221,17,2,0,15,"Stanly, North Carolina, US"
 20187,Stanton,Kansas,US,2020-04-15 22:56:51,37.56304714,-101.78435340000001,2,0,0,2,"Stanton, Kansas, US"
 31167,Stanton,Nebraska,US,2020-04-15 22:56:51,41.9169835,-97.19394708,1,0,0,1,"Stanton, Nebraska, US"
@@ -2379,7 +2383,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29213,Taney,Missouri,US,2020-04-15 22:56:51,36.65465345,-93.04075153,8,1,0,7,"Taney, Missouri, US"
 22105,Tangipahoa,Louisiana,US,2020-04-15 22:56:51,30.62888673,-90.40664996,418,15,0,403,"Tangipahoa, Louisiana, US"
 35055,Taos,New Mexico,US,2020-04-15 22:56:51,36.58006022,-105.63101979999999,15,0,0,15,"Taos, New Mexico, US"
+<<<<<<< HEAD
 48439,Tarrant,Texas,US,2020-04-15 22:56:51,32.77143818,-97.29101614,1093,37,0,960,"Tarrant, Texas, US"
+=======
+48439,Tarrant,Texas,US,2020-04-15 22:56:51,32.77143818,-97.29101614,990,30,0,960,"Tarrant, Texas, US"
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 28137,Tate,Mississippi,US,2020-04-15 22:56:51,34.65133709,-89.94485778,26,0,0,26,"Tate, Mississippi, US"
 13267,Tattnall,Georgia,US,2020-04-15 22:56:51,32.04785085,-82.05539188,5,0,0,5,"Tattnall, Georgia, US"
 12123,Taylor,Florida,US,2020-04-15 22:56:51,30.04848048,-83.60445406,1,0,0,1,"Taylor, Florida, US"
@@ -2915,7 +2923,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-04-15 22:56:32,9.9456,-9.6966,404,1,31,372,Guinea
 ,,,Guinea-Bissau,2020-04-15 22:56:32,11.8037,-15.1804,43,0,0,43,Guinea-Bissau
 ,,,Guyana,2020-04-15 22:56:32,4.860416000000002,-58.93018000000001,55,6,8,41,Guyana
+<<<<<<< HEAD
 ,,,Haiti,2020-04-15 22:56:32,18.9712,-72.2852,40,3,0,38,Haiti
+=======
+,,,Haiti,2020-04-15 22:56:32,18.9712,-72.2852,41,3,0,38,Haiti
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 ,,,Holy See,2020-04-15 22:56:32,41.9029,12.4534,8,0,2,6,Holy See
 ,,,Honduras,2020-04-15 22:56:32,15.2,-86.2419,419,31,9,379,Honduras
 ,,,Hungary,2020-04-15 22:56:32,47.1625,19.5033,1579,134,192,1253,Hungary

@@ -35,7 +35,11 @@ Qinghai,Mainland China,1/24/20 17:00,,,
 Washington,US,1/24/20 17:00,1,,
 Chicago,US,1/24/20 17:00,1,,
 ,Japan,1/24/20 17:00,2,,
+<<<<<<< HEAD
 ,Thailand,1/24/20 17:00,5,0,3
+=======
+,Thailand,1/24/20 17:00,5,,
+>>>>>>> a03e66204fc59c302f3571209a75bec831e30561
 ,South Korea,1/24/20 17:00,2,,
 ,Singapore,1/24/20 17:00,3,,
 ,Vietnam,1/24/20 17:00,2,,
